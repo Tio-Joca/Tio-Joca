@@ -6,9 +6,9 @@ In my academic career, I work as a monitor for subjects related to programming l
 
 Actually, I'm learning about HTML, CSS and JavaScript.
 
-While I'm not occupied with some students in monitoring sessions, I'll share some stuff related to my studies and practices.
+While I'm not occupied with some students in monitoring sessions, I'll share in GitHub's profile some stuff related to my studies and practices.
 
-If you want to contacto me, feel free to send an e-mail to joaquim.pessoa@tutamail.com or send a message for me in personal LinkedIn profile, www.linkedin.com/in/joaquim-lucas-pessoa-da-silva-bb8485256.
+If you want to contact me, feel free to send an e-mail to joaquim.pessoa@tutamail.com or send a message for me in personal LinkedIn profile, www.linkedin.com/in/joaquim-lucas-pessoa-da-silva-bb8485256.
 
 <!--
 **Tio-Joca/Tio-Joca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
